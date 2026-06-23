@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Hospital",
+  "description": "A premium, patient-first healthcare web portal featuring interactive appointment booking, dark mode, doctor and department directories, and responsive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
